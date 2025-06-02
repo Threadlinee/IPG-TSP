@@ -2,7 +2,7 @@ import requests
 import os
 import json
 
-API_KEY = "96fd8f01f0cf4d3b86da7aa9ad9200d8"
+API_KEY = "addurkeyhere"
 
 def get_desktop_path():
     return os.path.join(os.path.expanduser("~"), "Desktop", "ip_info.txt")
